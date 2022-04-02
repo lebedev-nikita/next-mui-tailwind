@@ -1,0 +1,10 @@
+{
+  "printWidth": 100,
+  "importOrder": [
+    "^[^@.].*",
+    "^@(?!src).*",
+    "^@src/.*",
+    "^[.].*"
+  ],
+  "importOrderSeparation": true
+}
